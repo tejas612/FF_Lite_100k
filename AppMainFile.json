@@ -8,7 +8,7 @@
     
       "showAppOpen": "Gone",
       "showSplashInterstitial": "Show",
-      "ShowFirstUrlDirect": "https://play240.atmequiz.com",
+      "ShowFirstUrlDirect": "https://u.theaddnews.com/zflaw/",
     
       "MoreApps" : "https://play.google.com/store/apps/details?id=orbut.vpn.secure.proxy",  
     
@@ -29,33 +29,33 @@
       "AppOpenAd_Id": "ca-app-pub-xyz3940256099942544/3419835294",
       "AppOpenAd_Id1": "ca-app-pub-xyz3940256099942544/3419835294",
       
-      "GamezopId": "https://play240.atmequiz.com",
-      "QurekaID": "https://play240.atmequiz.com",
-      "GamesKitesID": "https://play240.atmequiz.com",
-      "PredchmpId": "https://play240.atmequiz.com",
-      "AtmeId": "https://play240.atmequiz.com",
+      "GamezopId": "https://u.theaddnews.com/zflaw/",
+      "QurekaID": "https://u.theaddnews.com/zflaw/",
+      "GamesKitesID": "https://u.theaddnews.com/zflaw/",
+      "PredchmpId": "https://u.theaddnews.com/zflaw/",
+      "AtmeId": "https://u.theaddnews.com/zflaw/",
       
       "AppBanner": 
       [
         {
           "BannerURL":"https://static.gamezop.com/creatives/509f8e4f-936d-4e69-b242-06ef24e32570.png",
-          "BannerRedirectURL":"https://play240.atmequiz.com"
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
         },
         {
           "BannerURL":"https://static.gamezop.com/creatives/afc577b1-1e65-4c27-acc6-8471d695635d.png",
-          "BannerRedirectURL":"https://play240.atmequiz.com"
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
         },
         {
           "BannerURL":"https://static.gamezop.com/creatives/dcd86387-294b-4007-a54b-f37bffb0fe16.png",
-          "BannerRedirectURL":"https://play240.atmequiz.com"
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
         },
         {
           "BannerURL":"https://static.gamezop.com/creatives/6e0ffea0-71bc-4bc0-85ea-85ccdcc28ccb.png",
-          "BannerRedirectURL":"https://play240.atmequiz.com"
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
         },
         {
           "BannerURL":"https://static.gamezop.com/creatives/711d836b-677d-4b9d-8873-ffce7cda85eb.png",
-          "BannerRedirectURL":"https://play240.atmequiz.com"
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
         }
       ],
     
