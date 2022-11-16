@@ -7,11 +7,11 @@
       "ghe2" : "aft_vpn_test",
       "carrierId_ourVPN" : "gam_codemizevpn",  
     
-      "AD_Priority_Google/URL" : "show",
+      "AD_Priority_Google/URL" : "Show",
       "showFirstStart": "Show",
     
       "clickinterval" : "100",  
-      "showads" : "Gone",  
+      "showads" : "Show",  
     
       "showAppOpen": "Gone",
       "showSplashInterstitial": "Show",
