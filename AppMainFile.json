@@ -2,12 +2,12 @@
   "data" :  {
       "Applink":"https://play.google.com/store/apps/details?id=ffftools.rarebundle.emotes.skin",
     
-      "Vpn_On_Off" : "off",  
+      "Vpn_On_Off" : "on",  
     
       "ghe2" : "aft_vpn_test",
       "carrierId_ourVPN" : "gam_codemizevpn",  
     
-      "AD_Priority_Google/URL" : "gone",
+      "AD_Priority_Google/URL" : "show",
       "showFirstStart": "Show",
     
       "clickinterval" : "100",  
