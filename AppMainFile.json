@@ -4,6 +4,8 @@
     
       "AdsOnOff" : "on",  
     
+      "AppVersion_Update" : "10.0",  
+    
       "EveryTimeAdsFail_URL_OnOff" : "on",
     
       "AD_Priority_Google/URL" : "Show",
