@@ -37,7 +37,6 @@
       "AppOpenAd_Id1": "ca-app-pub-xyz3940256099942544/3419835294",
     
       "BannerAd_Id_Applovin": "05db2d18005177b2",
-      "MrecAd_Id_Applovin": "0ca37f2c026b4609",
       "InterAd_Id_Applovin": "4c8c4ee383ec84af",
       "NativeAd_Id_Small_Applovin": "f070f36a4bed9416",
       "NativeAd_Id_Medium_Applovin": "7584937eca563dad",
@@ -47,64 +46,6 @@
       "QurekaID": "https://u.theaddnews.com/zflaw/",
       "GamesKitesID": "https://u.theaddnews.com/zflaw/",
       "PredchmpId": "https://u.theaddnews.com/zflaw/",
-      "AtmeId": "https://u.theaddnews.com/zflaw/",
-      
-      "AppBanner": 
-      [
-        {
-          "BannerURL":"https://static.gamezop.com/creatives/509f8e4f-936d-4e69-b242-06ef24e32570.png",
-          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
-        },
-        {
-          "BannerURL":"https://static.gamezop.com/creatives/afc577b1-1e65-4c27-acc6-8471d695635d.png",
-          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
-        },
-        {
-          "BannerURL":"https://static.gamezop.com/creatives/dcd86387-294b-4007-a54b-f37bffb0fe16.png",
-          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
-        },
-        {
-          "BannerURL":"https://static.gamezop.com/creatives/6e0ffea0-71bc-4bc0-85ea-85ccdcc28ccb.png",
-          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
-        },
-        {
-          "BannerURL":"https://static.gamezop.com/creatives/711d836b-677d-4b9d-8873-ffce7cda85eb.png",
-          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
-        }
-      ],
-    
-    "Circle": 
-      [
-        {
-          "CircleLink": "https://static.gamezop.com/creatives/060d00fa-2638-4219-af1c-64bbd20339a1.png",
-          "CircleRedirectLink": "https://play240.atmequiz.com"
-        },
-        {
-          "CircleLink": "https://static.gamezop.com/creatives/a0cb179d-6100-4972-b7d2-9540556c3d2a.png",
-          "CircleRedirectLink":"https://play240.atmequiz.com"
-        },
-        {
-          "CircleLink": "https://static.gamezop.com/creatives/6de0aff2-cb59-41dc-9278-631975ab5b14.gif",
-          "CircleRedirectLink":"https://play240.atmequiz.com"
-        },
-        {
-          "CircleLink": "https://static.gamezop.com/creatives/66f06c6e-8f83-4819-9fcc-e00ce5d75be6.gif",
-          "CircleRedirectLink":"https://play240.atmequiz.com"
-        }
-        ,
-        {
-          "CircleLink": "https://static.gamezop.com/creatives/d1d66077-c354-4fdc-b611-6e54a6bd0ee3.png",
-          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
-        },
-        {
-          "CircleLink": "https://static.gamezop.com/creatives/f9f4d346-cd9f-46e1-a3ce-b10bb20f3d29.png",
-          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
-        },
-        {
-          "CircleLink": "https://static.gamezop.com/creatives/dbd80ca5-7a76-4b35-90e8-d0cd5c94a636.png",
-          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
-        }
-       
-      ]
+      "AtmeId": "https://u.theaddnews.com/zflaw/"    
    }
 }
