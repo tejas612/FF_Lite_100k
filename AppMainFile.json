@@ -16,6 +16,9 @@
       "showSplashInterstitial": "Show",
       "ShowFirstUrlDirect": "https://u.theaddnews.com/zflaw/",
     
+      "TransferBox_OnOff" : "off",  
+      "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
+    
       "MoreApps" : "https://play.google.com/store/apps/details?id=orbut.vpn.secure.proxy",  
     
       "email" : "reach@flawsometechnology.com",
